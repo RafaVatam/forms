@@ -1,2 +1,3 @@
-function
-fuc(alert)
+function myFunction() 
+{
+    alert("olá seja bem vinde!");
